@@ -8,6 +8,12 @@ Clone this repository and run:
 bundle install
 ```
 
+To install `node_modules/`, run:
+
+```
+npm add -D vite@\^6.2.6 vite-plugin-ruby@\^5.1.1
+```
+
 Then run:
 
 ```
