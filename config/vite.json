@@ -1,0 +1,16 @@
+{
+  "all": {
+    "sourceCodeDir": "assets",
+    "entrypointsDir": "",
+    "watchAdditionalPaths": [],
+    "publicOutputDir": "",
+    "emptyOutDir": true,
+    "autoBuild": false
+  },
+  "development": {
+    "port": 3036
+  },
+  "test": {
+    "port": 3037
+  }
+}

@@ -1,0 +1,8 @@
+/node_modules/
+
+/tmp/
+
+/public/.vite
+/public/assets
+
+/.vscode/*
