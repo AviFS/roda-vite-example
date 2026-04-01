@@ -42,7 +42,7 @@ body {
 ```
 
 > [!tip]  
-> This only works if you use `localhost:9292`. It doesn't work if you use `127.0.0.1:9292`.
+> This only works if you use `localhost:9292`. Hot Module Replacement (HMR) will not apply if you use `127.0.0.1:9292`.
 
 
 ## Building
