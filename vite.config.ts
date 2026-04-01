@@ -7,5 +7,6 @@ export default defineConfig({
   /* Restore Vite defaults */
   build: {
     emptyOutDir: true,
-    sourcemap: false,                                                              }
+    sourcemap: false,
+  }
 })
